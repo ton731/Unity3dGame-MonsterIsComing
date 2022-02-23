@@ -1,6 +1,6 @@
 # Unity3dGame-MonsterIsComing
-- This is a shooting game made with Unity3D. If you want to play the game, please download the .exe in /PlayGame
-
+- This is a shooting game made with Unity3D. FOr playing the game, please download the /PlayGame folder and execute the .exe file.
+ 
 --------------------------------------------------------
 
 ### Game Selection
